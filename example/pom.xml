@@ -23,7 +23,7 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/Karthik261193/FirstMavenProject</url>
+		<url>https://github.com/Karthik261193/FirstMavenProject/example/src</url>
 		<connection>scm:git:git://github.com/Karthik261193/FirstMavenProject.git</connection>
 		<developerConnection>scm:git:git@github.com:Karthik261193/FirstMavenProject.git</developerConnection>
 	</scm>
